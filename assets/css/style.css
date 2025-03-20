@@ -115,7 +115,7 @@ blockquote {
 .card-modern:hover {transform: translateY(-5px); box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);}
 .card-modern p {font-size: 16px;color: #333;line-height: 1.6; margin-bottom: 15px;}
 
-.achiev_card .card-p20 .card-body .top-meta .date { text-decoration: none; outline: none; color: #999999;  }
+.achiev_card .card-p20 .card-body .top-meta .date { text-decoration: none; outline: none; color: #050505;  }
 .achiev_card:hover, .achiev_card:active{ color: #1E90ff; text-decoration: none;  }
 .about-links .btn-primary { background-color: #1E90ff; color: #fff; padding: 10px 20px; border-radius: 4px; text-decoration: none;font-size: 16px;font-weight: bold;transition: background-color 0.3s ease, box-shadow 0.3s ease;display: flex;align-items: center; justify-content: center; position: relative;}
 .about-links .btn-primary:hover {box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);}
